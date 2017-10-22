@@ -1,0 +1,10 @@
+C:\Users\Giamm\Desktop\AnimeForU\AnimeForU\bin\Debug\AnimeForU.exe.config
+C:\Users\Giamm\Desktop\AnimeForU\AnimeForU\bin\Debug\AnimeForU.exe
+C:\Users\Giamm\Desktop\AnimeForU\AnimeForU\bin\Debug\AnimeForU.pdb
+C:\Users\Giamm\Desktop\AnimeForU\AnimeForU\bin\Debug\MaterialSkin.dll
+C:\Users\Giamm\Desktop\AnimeForU\AnimeForU\obj\Debug\AnimeForU.csprojResolveAssemblyReference.cache
+C:\Users\Giamm\Desktop\AnimeForU\AnimeForU\obj\Debug\AnimeForU.Form1.resources
+C:\Users\Giamm\Desktop\AnimeForU\AnimeForU\obj\Debug\AnimeForU.Properties.Resources.resources
+C:\Users\Giamm\Desktop\AnimeForU\AnimeForU\obj\Debug\AnimeForU.csproj.GenerateResource.Cache
+C:\Users\Giamm\Desktop\AnimeForU\AnimeForU\obj\Debug\AnimeForU.exe
+C:\Users\Giamm\Desktop\AnimeForU\AnimeForU\obj\Debug\AnimeForU.pdb

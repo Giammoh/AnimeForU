@@ -1,0 +1,9 @@
+C:\Users\Giamm\Desktop\AnimeForU\AnimeForU\bin\Release\AnimeForU.exe.config
+C:\Users\Giamm\Desktop\AnimeForU\AnimeForU\bin\Release\AnimeForU.exe
+C:\Users\Giamm\Desktop\AnimeForU\AnimeForU\bin\Release\AnimeForU.pdb
+C:\Users\Giamm\Desktop\AnimeForU\AnimeForU\bin\Release\MaterialSkin.dll
+C:\Users\Giamm\Desktop\AnimeForU\AnimeForU\obj\Release\AnimeForU.Form1.resources
+C:\Users\Giamm\Desktop\AnimeForU\AnimeForU\obj\Release\AnimeForU.Properties.Resources.resources
+C:\Users\Giamm\Desktop\AnimeForU\AnimeForU\obj\Release\AnimeForU.csproj.GenerateResource.Cache
+C:\Users\Giamm\Desktop\AnimeForU\AnimeForU\obj\Release\AnimeForU.exe
+C:\Users\Giamm\Desktop\AnimeForU\AnimeForU\obj\Release\AnimeForU.pdb
